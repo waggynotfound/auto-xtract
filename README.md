@@ -26,6 +26,11 @@ Archive hoarders end up with a folder full of `.zip` files next to a folder full
 - **Live log with colour-coded results** and a progress bar for the run.
 - **Standalone `.exe`** included, no Python required on Windows.
 
+![Screenshot 1](folder-name/image1.png)
+
+![Screenshot 2](folder-name/image2.png)
+
+
 ## Supported formats
 
 | Format | Extensions | Needs |
