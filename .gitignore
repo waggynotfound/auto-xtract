@@ -1,3 +1,7 @@
-__pycache__/ 
-*.pyc 
-.env 
+__pycache__/
+*.pyc
+.env
+
+# build_release.ps1 output
+build/
+dist/
